@@ -1,5 +1,5 @@
 +++
-title = News about Cloud
+title = "News about Cloud"
 +++
 
 # NoOps is the new normal
